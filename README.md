@@ -1,2 +1,2 @@
 # TISBHacksWorkplaceSafety
-white elephant
+white elephants are cool
