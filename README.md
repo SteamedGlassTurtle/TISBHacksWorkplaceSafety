@@ -1,3 +1,5 @@
+#### *potential app for wearos, may or may not work, idk*
+#### ***I HAVE NO IDEA IF THIS WORKS OR NOT, PLEASE FORGIVE ME***
 `for tisb hacks hackathon`
 # Workplace Safety Incident Reporter
 
