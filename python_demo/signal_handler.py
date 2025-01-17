@@ -136,7 +136,7 @@ def handle_code_orange():
                 return
             else:
                 print("Invalid input. Please enter 'clear' or 'failure'.")
-        except EOFError:
+        except EOFError: # end of the file without data received
             pass
 
     log_event("No confirmation received within 15 minutes. Escalating.")
